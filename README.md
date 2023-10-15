@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h2 align="left">
-        <samp>&gt; hello ello ello~ I'm
+        <samp>&gt; hello ello ello, I'm
                 <b>Vero ⚡!</b>
         </samp>
 </h2>

@@ -10,9 +10,9 @@
   </samp>
 </h4>
 <p align="left">
-<img width="100" height="100" src="https://img.icons8.com/clouds/100/great-britain.png" alt="great-britain"/>
-<img width="100" height="100" src="https://img.icons8.com/clouds/100/spain.png" alt="spain"/>
-<img width="100" height="100" src="https://img.icons8.com/clouds/100/usa.png" alt="usa"/>
+<img width="80" height="80" src="https://img.icons8.com/clouds/100/great-britain.png" alt="great-britain"/>
+<img width="80" height="80" src="https://img.icons8.com/clouds/100/spain.png" alt="spain"/>
+<img width="80" height="80" src="https://img.icons8.com/clouds/100/usa.png" alt="usa"/>
 <br/>
   
 <!-- About Section -->

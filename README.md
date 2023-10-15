@@ -1,20 +1,20 @@
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="left">
         <samp>&gt; hello ello ello~ I'm
                 <b>Vero ⚡!</b>
         </samp>
-</h3>
+</h2>
 
 
-<p align="center"> 
+<h3 align="left"> 
   <samp>
     <br>
     「 Musician turning <b>Full Stack Web Dev</b> from the <b>Canary Islands</b> 」
     <br>
     <br>
   </samp>
-</p>
-<p align="center">
+</h3>
+<p align="left">
 <img width="100" height="100" src="https://img.icons8.com/clouds/100/great-britain.png" alt="great-britain"/>
 <img width="100" height="100" src="https://img.icons8.com/clouds/100/spain.png" alt="spain"/>
 <img width="100" height="100" src="https://img.icons8.com/clouds/100/usa.png" alt="usa"/>
@@ -54,6 +54,7 @@
   <a href="https://github.com/VeroPolegre"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VeroPolegre&theme=radical&border=7F3FBF&background=0D1117" alt="VeroPolegre's GitHub streak"/></a>
   <br/>
 </a>
+<hr/>
 <p align="center">
   <a href="https://github.com/VeroPolegre?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>

@@ -6,7 +6,7 @@
 </h2>
 <h4 align="left"> 
   <samp>
-    「 Musician turning <b>Full Stack Web Dev</b> from the <b>Canary Islands</b> 」
+    「 Musician learning <b>Full Stack Web Dev</b> from the <b>Canary Islands</b> 」
   </samp>
 </h4>
 <p align="left">

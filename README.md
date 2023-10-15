@@ -4,11 +4,8 @@
                 <b>Vero ⚡!</b>
         </samp>
 </h2>
-
-
 <h3 align="left"> 
   <samp>
-    <br>
     「 Musician turning <b>Full Stack Web Dev</b> from the <b>Canary Islands</b> 」
     <br>
     <br>

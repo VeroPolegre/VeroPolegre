@@ -4,13 +4,11 @@
                 <b>Vero ⚡!</b>
         </samp>
 </h2>
-<h3 align="left"> 
+<h4 align="left"> 
   <samp>
     「 Musician turning <b>Full Stack Web Dev</b> from the <b>Canary Islands</b> 」
-    <br>
-    <br>
   </samp>
-</h3>
+</h4>
 <p align="left">
 <img width="100" height="100" src="https://img.icons8.com/clouds/100/great-britain.png" alt="great-britain"/>
 <img width="100" height="100" src="https://img.icons8.com/clouds/100/spain.png" alt="spain"/>

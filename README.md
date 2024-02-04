@@ -22,7 +22,7 @@
    <samp>
  ✌️  Deep passionate violinist tech nerd that loves learning all kinds of languages <br/><br/>
  ❤️  From music composition to coding <br/><br/>
- 📧  How to reach me: veronicapolegre98@gmail.com<br/><br/>
+ 📧  How to reach me: veronicapolegregonzalez@gmail.com<br/><br/>
  </samp>
 
 ## <samp> projects </samp>

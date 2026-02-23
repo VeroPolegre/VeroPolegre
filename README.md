@@ -25,10 +25,14 @@
  </samp>
 
 ## <samp> Projects </samp>
-[![ARTICIPE React Social Network Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Articipe-SocialNetwork_React_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Articipe-SocialNetwork_React_Project) 
-[![AETHER React E-Commerce Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Aether-E-Commerce_React_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Aether-E-Commerce_React_Project) 
-[![AETHER MySQL && Sequelize Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Aether-E-Commerce_Backend_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Aether-E-Commerce_Backend_Project) 
-[![HUNTA Mongo && Mongoose Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=SocialNetwork_Backend_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/SocialNetwork_Backend_Project)
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Articipe**](https://github.com/VeroPolegre/Articipe-SocialNetwork_React_Project) | A full-featured social network where users share articles and connect | React, Node.js, Express |
+| [**Aether (Frontend)**](https://github.com/VeroPolegre/Aether-E-Commerce_React_Project) | Modern e-commerce UI with cart, auth and product browsing | React, Redux |
+| [**Aether (Backend)**](https://github.com/VeroPolegre/Aether-E-Commerce_Backend_Project) | REST API powering the Aether e-commerce platform | MySQL, Sequelize, Node.js |
+| [**Hunta**](https://github.com/VeroPolegre/SocialNetwork_Backend_Project) | Social network backend with auth, posts, and user relationships | MongoDB, Mongoose, Express |
+
 
 ## <samp> Stats </samp>
 <span align="center">
@@ -37,9 +41,9 @@
 <a href="https://github.com/VeroPolegre"><img alt="VeroPolegre's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VeroPolegre&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 <br/>
 </a>
+<br/>
 
 ## <samp> Tech </samp>
-
 
 
 

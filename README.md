@@ -15,7 +15,7 @@
 <br/>
   
 <!-- About Section -->
-## <samp> about me </samp>
+## <samp> About me </samp>
  
 <p>
   <p align="left">
@@ -24,13 +24,13 @@
  📧  How to reach me: veronicapolegregonzalez@gmail.com<br/><br/>
  </samp>
 
-## <samp> projects </samp>
-[![ARTICIPE React Social Network Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Articipe-SocialNetwork_React_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Articipe-SocialNetwork_React_Project)
-[![AETHER React E-Commerce Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Aether-E-Commerce_React_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Aether-E-Commerce_React_Project)
-[![AETHER MySQL && Sequelize Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Aether-E-Commerce_Backend_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Aether-E-Commerce_Backend_Project)
+## <samp> Projects </samp>
+[![ARTICIPE React Social Network Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Articipe-SocialNetwork_React_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Articipe-SocialNetwork_React_Project) 
+[![AETHER React E-Commerce Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Aether-E-Commerce_React_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Aether-E-Commerce_React_Project) 
+[![AETHER MySQL && Sequelize Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=Aether-E-Commerce_Backend_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/Aether-E-Commerce_Backend_Project) 
 [![HUNTA Mongo && Mongoose Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=VeroPolegre&repo=SocialNetwork_Backend_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/VeroPolegre/SocialNetwork_Backend_Project)
 
-## <samp> stats </samp>
+## <samp> Stats </samp>
 <span align="center">
 <a>  
 <a href="https://github.com/VeroPolegre"><img alt="VeroPolegre's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VeroPolegre&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -38,13 +38,13 @@
 <br/>
 </a>
 
-## <samp> tech </samp>
+## <samp> Tech </samp>
 
 
 
 
-![Remix](https://img.shields.io/badge/-Remix-000000?style=for-the-badge&labelColor=black&logo=remix&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Remix](https://img.shields.io/badge/-Remix-000000?style=for-the-badge&labelColor=black&logo=remix&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&labelColor=black&logo=eslint&logoColor=4B32C3)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
